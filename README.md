@@ -1,2 +1,7 @@
-# LeetCode-Notes
+# LeetCode 刷题笔记（`Swift`）
+
 人菜就要多学习（
+
+## 这是什么
+
+这是 mizu 刷题整理的笔记，建立这个 repo 就是为了监督自己天天刷题啦！

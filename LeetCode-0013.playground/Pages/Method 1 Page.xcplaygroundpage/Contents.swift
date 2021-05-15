@@ -18,7 +18,7 @@ class Solution {
             "M": 1000
         ]
         var nums: [Int] = [Int]()
-        for (index, char) in s.enumerated() {
+        for (_, char) in s.enumerated() {
             nums.append(dict[char]!)
         }
         var result = nums[nums.count - 1]
